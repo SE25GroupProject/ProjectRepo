@@ -10,4 +10,10 @@ print("Total: " + str(a + b + c))
 
 print("This totally works!")
 
-invalid = {"value" 6,}
+def add_one(x): 
+    return x + 1
+
+
+# Error Line
+
+# invalid = {"value" 6,}
